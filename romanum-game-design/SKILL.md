@@ -1,7 +1,7 @@
 ---
 name: romanum-game-design
 license: "Romanum Source-Available License 1.0; see LICENSE or https://github.com/romanumdev/Romanum/blob/main/LICENSE. Commercial project outputs are permitted."
-description: Turn Roblox market evidence into a differentiated game concept, a playable core loop, and a small validation plan. Use for game ideas, design briefs, onboarding, progression, and age-appropriate engagement.
+description: Turn Roblox market evidence into a differentiated game concept, a playable core loop, and a small validation plan. Use for game ideas, design briefs, onboarding, progression, launch experiments and age-appropriate engagement.
 ---
 
 # Roblox game idea and design assistant
@@ -39,6 +39,8 @@ Offer a small playable prototype and a few concrete observations: can a new play
 Match the response to the question. A concept pitch may need only evidence, the idea, the loop, a differentiator and a prototype test. A full design document should be written only when requested.
 
 Use `romanum-game-teardown` for inspecting reference games and revisiting hypotheses; use `romanum-game-economy` for progression and purchase tradeoffs when those guides are available. Do not assume installing this skill also installs the others.
+
+For an early advertising or discovery plan, read [launch experiments](references/launch-experiments.md). Its budget and timing figures are practitioner starting points to evaluate, not verified Roblox requirements or permission to spend.
 
 ## Sources and attribution
 

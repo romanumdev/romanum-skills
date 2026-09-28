@@ -44,6 +44,8 @@ For concept exploration, change the story or viewpoint: a trap being set, a narr
 
 Test concepts against the same placement/audience where possible. Track exposure, qualified plays or clicks using the metric actually provided; do not treat CTR and qualified play-through as interchangeable. Separate creative effects from traffic mix, concurrent updates and sampling noise. State a stopping rule before testing; an early winner is not a guaranteed improvement.
 
+For a production schedule or performance target, read [creative testing cadence](references/creative-testing-cadence.md). It records practitioner suggestions of roughly nine thumbnails every three days and 3–6% Ads Manager CTR per thumbnail; neither is a universal threshold.
+
 ## Source context
 
 The three reads, title/image complementarity, mobile checks and concept exploration paraphrase a Tizzy RBLX AI-thumbnail transcript. Channel: https://www.youtube.com/@TizzyRBLX12. Its individual video URL, date and timestamps are unverified; its performance examples are creator reports, not an independently verified CTR dataset. The supplied cake-delivery design brief also informed identity preservation, expression checks and game fidelity; its cake/town details are not defaults for other games. Full transcripts and private briefs are not distributed. Reference-image provenance is recorded in [the pack notice](assets/characters/NOTICE.md).
