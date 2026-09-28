@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "provenance": "Supplied character references; original author and asset URLs unspecified. See NOTICE.md.",
+  "assets": [
+    {
+      "file": "bacon-hair.png",
+      "role": "character-and-outfit",
+      "sha256": "d54068350ca43164e2bfd6df92468038ee48386ffeac6162ee1b50c29cdfbbba",
+      "bytes": 188890,
+      "width": 360,
+      "height": 575,
+      "hasAlpha": true
+    },
+    {
+      "file": "acorn-girl.png",
+      "role": "character-and-outfit",
+      "sha256": "bc275a4b5f376b3284bacf7d6c7db696d1a315c3a6e15bfea1a8ecdcb5362b9b",
+      "bytes": 66462,
+      "width": 420,
+      "height": 420,
+      "hasAlpha": true
+    },
+    {
+      "file": "wicked-smile.png",
+      "role": "expression",
+      "sha256": "4c7c4248bdebcf09ea231a87acc9e85e6e6b0962aa2cc3cf0a3dec5b5620a95a",
+      "bytes": 182925,
+      "width": 420,
+      "height": 420,
+      "hasAlpha": false
+    }
+  ]
+}

@@ -1,4 +1,4 @@
 interface:
   display_name: "Thumbnail design"
-  short_description: "Plan truthful thumbnail concepts and tests"
-  default_prompt: "Use $romanum-thumbnail-design to help with my Roblox project."
+  short_description: "Create Roblox thumbnails with consistent characters"
+  default_prompt: "Use $romanum-thumbnail-design to generate a Roblox thumbnail showing my game's setting, emotion and main mechanic."
