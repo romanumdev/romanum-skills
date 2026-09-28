@@ -10,6 +10,8 @@ Make the player understand the game and the feeling of playing it in one glance.
 
 For brainrot, incremental, collecting or younger-audience games, read [the audience guide](references/brainrot-and-younger-audiences.md), including its increment, income, progression and rarity text patterns. Its [visual examples](references/visual-examples.md) show how these treatments can support the scene. When using bacon hair, acorn girl or the wicked grin, open the actual images in [the character reference pack](references/characters.md) and pass the relevant files to the image tool. A written description alone is not an identity reference.
 
+Prefer the look of a polished Blender-rendered Roblox GFX thumbnail: posed blocky avatars, dimensional props, material-specific reflections, coherent lighting and grounded shadows. Bright colours, exaggerated faces and rainbow text can coexist with this 3D treatment. Use flat illustration or cartoon rendering when the brief or game art direction calls for it. "Blender-style" describes the look; only claim an actual Blender render when Blender was used.
+
 ## Three reads
 
 - **Setting / fantasy:** a conveyor, delivery doorstep, growing plot or other recognisable game environment.

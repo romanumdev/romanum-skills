@@ -4,7 +4,11 @@ Use this guide when the game's audience and visual language fit it. It is not th
 
 ## Art direction
 
-Aim for a cohesive Roblox 3D render: blocky anatomy, recognisable hair, simple materials, deliberate lighting and a clean silhouette. Use strong colour separation around the face and gameplay object. A bright sky and studded ground can work when they belong to the game; do not impose them on a different setting.
+Prefer a polished Blender-style Roblox GFX render. Preserve blocky anatomy and recognisable hair while giving characters and props real volume, posed silhouettes and coherent perspective. Use a clear key light, soft bounced fill, contact shadows and restrained ambient occlusion to ground the scene. Rim light can separate the silhouette when useful. Give plastic, hair, cloth, metal and food appropriate roughness and highlights rather than making every surface equally glossy.
+
+Keep the Roblox face graphic readable on the 3D head. Bright colours and exaggerated expressions do not require flat cartoon shading, illustrated contours or a 2D comic treatment. Reserve those styles for a matching brief or game art direction. Rainbow text and reward effects can sit over the rendered scene without changing its underlying style.
+
+Use strong colour separation around the face and gameplay object. A bright sky and studded ground can work when they belong to the game; do not impose them on a different setting.
 
 Keep one main moment. Usually one or two characters are enough. Simplify background geometry before adding glow, arrows, outlines or labels. Polished does not have to mean realistic skin, cinematic darkness or excessive depth of field. Do not humanise the avatars into teenagers, reshape their hands into realistic fingers, or turn a reference into a pasted sticker. A thin separation edge can help; thick comic borders should be a deliberate style choice.
 
@@ -73,7 +77,7 @@ Feeling: [what the player should expect to feel].
 References: [image -> identity / outfit / expression / setting role].
 Character: [canonical identity, pose, gaze and expression].
 Composition: [main subject, action, supporting reaction, camera].
-Render: cohesive Roblox 3D, block anatomy, clear material/light separation.
+Render: polished Blender-style Roblox GFX, posed blocky avatars, dimensional materials, coherent lighting and contact shadows; adapt if the brief specifies another style.
 Text: [exact strings, colour/outline, placement, hierarchy and any repeated pop-ups; or none].
 Number meaning: [increment / production rate / progression / rarity; confirmed value or illustrative concept label].
 Preserve: [identity and scene invariants for this generation/edit].
