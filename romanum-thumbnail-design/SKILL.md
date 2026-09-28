@@ -8,7 +8,7 @@ description: Design and generate Roblox thumbnails and icons with readable emoti
 
 Make the player understand the game and the feeling of playing it in one glance. Establish the real mechanic, audience and placement from the brief. Ask only for missing information that changes the image; do not turn a generation request into a questionnaire.
 
-For brainrot, incremental, collecting or younger-audience games, read [the audience guide](references/brainrot-and-younger-audiences.md). When using bacon hair, acorn girl or the wicked grin, open the actual images in [the character reference pack](references/characters.md) and pass the relevant files to the image tool. A written description alone is not an identity reference.
+For brainrot, incremental, collecting or younger-audience games, read [the audience guide](references/brainrot-and-younger-audiences.md), including its increment, income, progression and rarity text patterns. Its [visual examples](references/visual-examples.md) show how these treatments can support the scene. When using bacon hair, acorn girl or the wicked grin, open the actual images in [the character reference pack](references/characters.md) and pass the relevant files to the image tool. A written description alone is not an identity reference.
 
 ## Three reads
 
@@ -26,7 +26,7 @@ The character anchors these reads. A beautiful portrait with no understandable a
 4. Inspect the generated result before delivering it. Check anatomy, hair/outfits, facial intent, hand-to-prop contact and whether the action is physically understandable. Correct the most important failure while preserving the successful parts.
 5. Check at a small display size (roughly 320 x 180 for a thumbnail; 128 x 128 for an icon). The face, action and main object should still read. Deliver the image with a short concept label; keep critique and generation notes separate from the artwork.
 
-Default thumbnails to 16:9; icons to square, at least 512 x 512. Compose icons around one dominant subject and expression rather than cropping a complex thumbnail. Keep essential content clear of edges and possible interface overlays. Use text only when it adds information the image cannot convey, and quote the exact words in the prompt. Never use invented rewards, odds or numbers as if they are real game values.
+Default thumbnails to 16:9; icons to square, at least 512 x 512. Compose icons around one dominant subject and expression rather than cropping a complex thumbnail. Keep essential content clear of edges and possible interface overlays. Short text can carry the gameplay hook: repeated "+1", rainbow "67T/s", "DAY 1" versus "DAY 999", or a rarity label. Choose a treatment that fits the mechanic and quote the exact text in the prompt. Distinguish illustrative concept labels from actual game values; do not present invented rewards or odds as verified.
 
 For regeneration, retain the prompt, reference roles and selected output. Refer back to the canonical character images on each run; repeated edits of generated copies can drift. If a tool cannot see the reference files, say so rather than claiming an identity-matched result.
 

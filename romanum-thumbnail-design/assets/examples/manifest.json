@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "provenance": "Supplied visual examples; author, generation method and usage licence unspecified. See NOTICE.md.",
+  "assets": [
+    {
+      "file": "day-1-day-999.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "518a49cab3d0df288cdf58547d782b4a6f5da7bcc7a04c9296803c6493af59e7",
+      "bytes": 2834084,
+      "width": 1448,
+      "height": 1086,
+      "hasAlpha": false
+    },
+    {
+      "file": "delivery-success-failure.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "549e5178a7e32e78596059b97a311c661afd5168c9148ba2425033baa67d332a",
+      "bytes": 2658925,
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false
+    },
+    {
+      "file": "production-reward-popups.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "5dcb57ecfa21847626917451d4b0ad39a448d776f2283081654317863259d901",
+      "bytes": 2819061,
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false
+    },
+    {
+      "file": "production-spectacle.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "4910edcc029f21345e9a996f6ac3bf1def3da107a180d9ba3315a3ce6292dddc",
+      "bytes": 2859626,
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false
+    },
+    {
+      "file": "rainbow-production-sign.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "f8a482c1c148c61403c5366251a569c6879461442efbc57c874a2a744a5a8d4b",
+      "bytes": 2826518,
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false
+    },
+    {
+      "file": "rare-reward-reveal.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "ddb162d147975a7d1b3364465c3ac4a069859856fa297701d640664a074bd994",
+      "bytes": 2891208,
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false
+    },
+    {
+      "file": "square-reward-closeup.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "fc6e178a43a765a4fc8604e2bb99c84c44bc8d4b18a5e87b2b1cb5f79efaae76",
+      "bytes": 2813210,
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": false
+    },
+    {
+      "file": "total-value-reward.png",
+      "role": "composition-and-text-treatment",
+      "sha256": "b8cccd85374b8a5027e154543953ca33af7d96203da390f00bbfdf397084e08d",
+      "bytes": 2773165,
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": false
+    }
+  ]
+}
