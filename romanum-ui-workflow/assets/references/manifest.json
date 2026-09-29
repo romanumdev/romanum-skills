@@ -1,0 +1,209 @@
+{
+  "version": 2,
+  "provenance": "Unmodified images supplied by the user as visual references. See NOTICE.md. These are not generated or extracted production assets.",
+  "assets": [
+    {
+      "filename": "strength-hud.png",
+      "role": "HUD composition and resource feedback",
+      "originalFilename": "codex-clipboard-620bb996-1fcb-4cb1-abe4-df7085a40c25.png",
+      "width": 1910,
+      "height": 1074,
+      "hasAlpha": true,
+      "bytes": 2790792,
+      "sha256": "c461c37f96787588b42b237da6001aa7bc21ca0fdde3f8419253798ae8ccf0e4"
+    },
+    {
+      "filename": "placement-tutorial.png",
+      "role": "Pointing cues and short tutorial instructions",
+      "originalFilename": "codex-clipboard-30e12b4b-dcef-4099-b987-258693e254a5.png",
+      "width": 1903,
+      "height": 1069,
+      "hasAlpha": true,
+      "bytes": 2627320,
+      "sha256": "34e2a87ade2e61b614ad98589d307f7462184826604447313dca508bc5c93eb8"
+    },
+    {
+      "filename": "banana-button.png",
+      "role": "Primary UI art direction",
+      "originalFilename": "codex-clipboard-c1483920-e8c0-4668-87aa-2c93701da2bc.png",
+      "width": 460,
+      "height": 273,
+      "hasAlpha": true,
+      "bytes": 68125,
+      "sha256": "688f36cd079155bb3275984941a3a934ba7ae66c16ff9953e519b310974052f9"
+    },
+    {
+      "filename": "level-feedback.png",
+      "role": "Level and gain feedback",
+      "originalFilename": "codex-clipboard-64e27e80-1f68-4d09-b5cc-7b95115878f6.png",
+      "width": 1907,
+      "height": 1079,
+      "hasAlpha": true,
+      "bytes": 3214621,
+      "sha256": "be59770a905054745f8c4b385de98215904042a3680bdb9f8d1b0d0d9e9f0144"
+    },
+    {
+      "filename": "stud-world-hud.png",
+      "role": "UI against a stud-style world",
+      "originalFilename": "codex-clipboard-f5337624-0491-4b97-b8c4-ff70d8d9a570.png",
+      "width": 1875,
+      "height": 1076,
+      "hasAlpha": true,
+      "bytes": 3084983,
+      "sha256": "460f52b25f536490e4f701f0a3238186c3a6f32109749d56543661c509963c75"
+    },
+    {
+      "filename": "world-shop.png",
+      "role": "World-space shop wayfinding",
+      "originalFilename": "codex-clipboard-2844a309-1e30-4fc6-aafd-65038bc1f716.png",
+      "width": 680,
+      "height": 383,
+      "hasAlpha": false,
+      "bytes": 492818,
+      "sha256": "f7121005cd1e7e14e22e39358c5d51708c5c5bd49c1340a891f446fbb8025769"
+    },
+    {
+      "filename": "island-water.png",
+      "role": "Island silhouettes and water-contact edges",
+      "originalFilename": "codex-clipboard-79471f0f-7d4e-4630-ac3e-4a4ac33edfe2.png",
+      "width": 617,
+      "height": 680,
+      "hasAlpha": false,
+      "bytes": 669210,
+      "sha256": "02d15b107f66504ee77abebe6a6d881bf8f027f727ca9b44900b28430067e75c"
+    },
+    {
+      "filename": "harbour-water.png",
+      "role": "Harbour routes and water-contact edges",
+      "originalFilename": "codex-clipboard-a8480e28-a92b-4f61-a8c2-7ff118dac732.png",
+      "width": 680,
+      "height": 460,
+      "hasAlpha": false,
+      "bytes": 580482,
+      "sha256": "214ff5e9e99664813dc37d29bf52fab583ad6a28de56bdea22edcfe7312d9b82"
+    },
+    {
+      "filename": "island-arena.png",
+      "role": "Central play space and peripheral landmarks",
+      "originalFilename": "codex-clipboard-52b0d982-083a-4e80-8f91-e7df0d284eee.png",
+      "width": 680,
+      "height": 480,
+      "hasAlpha": false,
+      "bytes": 502636,
+      "sha256": "920f471cae743d6fc96ea2d15fe096a8faf50e5471600585b2e9d73d8dab7c73"
+    },
+    {
+      "filename": "destroy-the-moon/references/Destroy_the_Moon_UI_Reference_Sheet.jpg",
+      "role": "Overview contact sheet with supplied review captions",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "references/Destroy_the_Moon_UI_Reference_Sheet.jpg",
+      "width": 1440,
+      "height": 1415,
+      "hasAlpha": false,
+      "bytes": 749793,
+      "sha256": "3f5f8feebf45d5d6c36767bdad9a3234fd0ca8b69edca31d91e45f925d40058d"
+    },
+    {
+      "filename": "destroy-the-moon/references/t_00.75.jpg",
+      "role": "Short tutorial instruction and visible gameplay world",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "references/t_00.75.jpg",
+      "width": 1916,
+      "height": 1078,
+      "hasAlpha": false,
+      "bytes": 511356,
+      "sha256": "aa26182255e124663b0d0482d58322ae2ad6c878a9c26725db9f46a18a843419"
+    },
+    {
+      "filename": "destroy-the-moon/references/t_004.0.jpg",
+      "role": "Level-up burst, gain icons and level label",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "references/t_004.0.jpg",
+      "width": 1916,
+      "height": 1078,
+      "hasAlpha": false,
+      "bytes": 420895,
+      "sha256": "07c3094668ea151f58197cce9e6e78b79aa7bb5c8c63d45aac14ef1489735198"
+    },
+    {
+      "filename": "destroy-the-moon/references/t_25.00.jpg",
+      "role": "Selling panel with bulk action and item rows",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "references/t_25.00.jpg",
+      "width": 1916,
+      "height": 1078,
+      "hasAlpha": false,
+      "bytes": 576886,
+      "sha256": "3887afd22e80a639268e7b700833832f01a31aac61b99f49b37416a75b72d92b"
+    },
+    {
+      "filename": "destroy-the-moon/references/t_29.00.jpg",
+      "role": "Shop previews, stats, prices and Equipped state",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "references/t_29.00.jpg",
+      "width": 1916,
+      "height": 1078,
+      "hasAlpha": false,
+      "bytes": 390947,
+      "sha256": "e156361d22c31336f4ca3ceb4026f80f0ed67e685c6c8e71fc0e1c9e35dc669e"
+    },
+    {
+      "filename": "destroy-the-moon/references/t_41.00.jpg",
+      "role": "Dimmed world, highlighted target and tutorial arrow",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "references/t_41.00.jpg",
+      "width": 1916,
+      "height": 1078,
+      "hasAlpha": false,
+      "bytes": 391238,
+      "sha256": "6af62fcf2202ae7c3348901bfc3938f2cb63e0d4b85dfa8203fe54148c777ff6"
+    },
+    {
+      "filename": "destroy-the-moon/references/t_41.60.jpg",
+      "role": "Rebirth reset warning, before/after values and level requirement",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "references/t_41.60.jpg",
+      "width": 1916,
+      "height": 1078,
+      "hasAlpha": false,
+      "bytes": 450474,
+      "sha256": "6ee8e63c46f76ae8dd8e8cac746ac6f111d348fe42322e72d40456c2ea46aa6b"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "destroy-the-moon/README.txt",
+      "role": "Supplied archive contents and recording provenance",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "README.txt",
+      "bytes": 659,
+      "sha256": "7d63054972f4e7f3504c2a8fec4a8d962cf665d922f612ea6ba2edc4595481ee"
+    },
+    {
+      "filename": "destroy-the-moon/Destroy_the_Moon_UI_and_Feedback_Guide.md",
+      "role": "Supplied visual observations and project-specific design proposals",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "Destroy_the_Moon_UI_and_Feedback_Guide.md",
+      "bytes": 17611,
+      "sha256": "fe79c17e142f4e09c734ac82953d9a267c37d47ee193a7b102aee4523b81d865"
+    },
+    {
+      "filename": "destroy-the-moon/Destroy_the_Moon_Game_Plan_v2.md",
+      "role": "Supplied Destroy the Moon game context; not general UI instructions",
+      "sourceArchive": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "originalFilename": "Destroy_the_Moon_Game_Plan_v2.md",
+      "bytes": 9918,
+      "sha256": "600c8fa4d299ecef5305a2957f71a6705ae51c350aaa64eb56e31aed9a99103c"
+    }
+  ],
+  "referencePacks": [
+    {
+      "directory": "destroy-the-moon",
+      "archiveFilename": "Destroy_the_Moon_UI_Reference_Pack (1).zip",
+      "archiveSha256": "301282f3258e162826839197db589357755fadf75032f718e02629e740457720",
+      "fileCount": 10,
+      "sourceVideo": "20260929-0722-23.4835828.mp4",
+      "sourceVideoIncluded": false
+    }
+  ]
+}

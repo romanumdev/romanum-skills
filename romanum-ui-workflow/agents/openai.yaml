@@ -1,4 +1,4 @@
 interface:
   display_name: "UI workflow"
-  short_description: "Reuse and assemble editable Roblox UI"
-  default_prompt: "Use $romanum-ui-workflow to help with my Roblox project."
+  short_description: "Create Roblox UI concepts, assets and native controls"
+  default_prompt: "Use $romanum-ui-workflow to design my Roblox UI: generate a concept, extract its assets with imagegen, then assemble editable controls."
