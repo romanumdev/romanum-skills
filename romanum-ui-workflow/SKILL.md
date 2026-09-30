@@ -42,7 +42,9 @@ Review the actual image at the intended device size. Check labels, touch targets
 
 ## Separate and assemble
 
-Use the selected concept as an image input to imagegen for every extracted piece. Request one named asset per output, preserving its colour, shape, border, highlight and shadow. Independent pieces can be generated as a batch when the generator supports it. Extract button bases, panels, icons, pointers, textures and effects as separate files with real transparency where needed. Keep labels, values and state changes editable in Roblox. Verify each asset against the concept; do not accept a freshly redesigned button as a faithful extraction.
+Use the selected concept as an image input to imagegen for every extracted piece. Request one named asset per output, preserving its colour, shape, border, highlight and shadow. Independent pieces can be generated as a batch when the generator supports it. Extract button bases, panels, icons, pointers, non-stud textures and effects as separate files with real transparency where needed. Keep labels, prices, values and state changes editable in Roblox. Verify each asset against the concept; do not accept a freshly redesigned button as a faithful extraction.
+
+For studs, use an actual user-provided texture or a verified licensed/owned library asset, as a separate native tiled `ImageLabel` layer. Never generate, redraw, bake in or model artificial studs, including on Roblox world assets. Imagegen panel/button artwork must omit studs and leave room for the real texture. The [supplied PNG and provenance](assets/textures/NOTICE.md) are available locally; inclusion does not establish public redistribution rights. Follow [the texture source, layer and fidelity checks](references/asset-extraction-and-assembly.md#stud-texture-layer) and record the source plus the real asset ID or pending upload status.
 
 Make a manifest mapping stable keys to images and native components. Include dimensions, anchors, parent relationships and states. A library layout is structured data, not permission to execute uploaded scripts. Validate its hierarchy and reject unknown properties or executable content.
 

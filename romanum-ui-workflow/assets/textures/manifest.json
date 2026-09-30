@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "provenance": "Unmodified user-provided PNG; local skills-directory inclusion authorised. Author, original artwork URL and reuse licence not supplied. See NOTICE.md.",
+  "assets": [
+    {
+      "filename": "user-provided-studs.png",
+      "role": "Actual stud texture for a separate native tiled ImageLabel layer",
+      "originalFilename": "cb293d819c45f471372ce6abe9975205ffff063b_2_500x500.png",
+      "sourceLibraryFileId": "libfile_8d5f73bc27f48191b6b5cd40bbc2e61e",
+      "sourceLibraryFileVersion": 0,
+      "sourceLibraryContentFileId": "file_00000000ec1881f5a67caf497c564195",
+      "width": 500,
+      "height": 500,
+      "hasAlpha": true,
+      "alphaRange": [0, 115],
+      "bytes": 107911,
+      "sha256": "e6b595001f0614cd4f0e5cca2f029eea0ab581d9e00610ee65530c9cf07eb5aa",
+      "author": null,
+      "originalArtworkUrl": null,
+      "reuseLicense": null,
+      "permission": "User explicitly authorised local inclusion on 2026-09-30; no public push or deployment authorised.",
+      "robloxAssetId": null,
+      "robloxUploadStatus": "not uploaded"
+    }
+  ]
+}

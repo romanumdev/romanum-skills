@@ -15,14 +15,14 @@ Use this direction when the developer chooses a bright toy-like game for younger
 
 Preserve this hierarchy: label -> button silhouette -> highlight/depth -> decorative texture. The narrow highlight, bottom lip and subtle pattern matter as much as the green colour. Avoid turning it into a plain green rectangle with white text, or an over-rendered glass/chrome button. "BANANA" is reference copy, not the name of a production action. The white canvas around the screenshot is not part of the asset.
 
-Generate a text-free button base from the selected concept. Keep its outline, lip and highlight together; request the repeating pattern separately when it must tile. Rebuild the live label in Roblox with a suitable licensed/available chunky font, dark stroke and restrained shadow. Do not claim an exact font match without identifying it. Keep enough interior space for different labels and localised text.
+Generate a text-free, stud-free button base from the selected concept. Keep its outline, lip and highlight together; use the actual sourced stud texture as a separate native layer according to [assembly guidance](asset-extraction-and-assembly.md#stud-texture-layer). The screenshot's pattern is a visual observation, not a texture source or evidence of reuse rights. Rebuild the live label in Roblox with a suitable licensed/available chunky font, dark stroke and restrained shadow. Do not claim an exact font match without identifying it. Keep enough interior space for different labels and localised text.
 
 ## Apply the language consistently
 
 - Use bold colour families with a purpose: the active action, progress and a special state should be distinguishable. The reference green is a style anchor, not a requirement for every control.
 - Gradients, bevels, gloss and soft bursts are appropriate when they support this game style. Keep them subordinate to labels. Interface rules from an unrelated website do not decide a game's art direction.
 - Use readable illustrated icons with consistent edges and shading. A game's UI icon need not use the realistic materials of a marketing thumbnail.
-- Use studs on selected backgrounds, panels and headers at consistent scale. Reduce texture contrast behind small numbers. Do not stretch the pattern along with a resizable panel.
+- Tile the real stud texture on selected backgrounds, panels and headers at consistent scale. Reduce texture contrast behind small numbers. Do not stretch it along with a resizable panel, generate substitutes or build stud geometry.
 - Keep related buttons consistent in radius, outline weight, inner margin, label treatment and press depth. Reserve rainbow or strong shine for selected emphasis.
 
 ## HUD and screen hierarchy
