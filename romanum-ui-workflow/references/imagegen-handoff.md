@@ -26,7 +26,7 @@ Write a finished, project-specific concept prompt, then include the asset-genera
 - Game, screen, immediate player action, required controls and exact short labels.
 - Target device, canvas/aspect ratio, composition and gameplay area to keep visible.
 - The reference attachments and their roles, plus the intended typography, palette, border, depth and texture treatment.
-- The total output count and a compact list of concepts and component files.
+- The total output count and a compact list of concepts and component files, derived from the concept-to-asset map: include distinct pack/tier compositions as separate outputs, and reuse matching frames/icons where appropriate. Preserve each variant's visible quantity, silhouette and progression; do not ask for one scaled gem to replace approved increasing piles. See [asset breakdown](asset-extraction-and-assembly.md#2-extract-with-imagegen).
 - Shared instructions to use the actual generated concept for extraction, preserve its design, keep text/values editable, and return separate images with real transparency where needed.
 
 For stud-style UI, include the actual user-provided or verified licensed texture as a source reference and reserve a separate native texture layer. Do not request a generated stud tile or baked studs in any panel/button artwork. If the generator cannot preserve the supplied texture faithfully in the concept, use a flat surface and mark the texture preview pending native assembly. The sourced tile is reused, not a generated output slot. Read [the texture-layer rule](asset-extraction-and-assembly.md#stud-texture-layer).

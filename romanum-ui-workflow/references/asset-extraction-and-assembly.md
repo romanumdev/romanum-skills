@@ -12,6 +12,12 @@ Review the render at its intended display size. Record the selected file and any
 
 ## 2. Extract with imagegen
 
+Before choosing reusable files or output batches, break the selected concept into an asset map. Separate panel/button frames, backgrounds, icons, decorative effects and visually different pack/tier variants from editable text and values. For each part, record its concept location, defining appearance, intended display size and matching source or missing output. Similar style alone does not make an asset a match.
+
+For an approved diamond shop showing a small cluster, a medium pile and a large heap, list the three pile compositions as separate asset keys. Preserve the visible amount, arrangement, outline and relative progression; one enlarged gem for every tier loses the design. A shared card frame and currency icon can still be reused where they match. If the concept deliberately repeats the same icon with different numeric labels, keep that reuse. Do not generate a new image for every price or quantity.
+
+Inspect existing files against this map. Extract or generate missing distinct art only when authorised and necessary; include those variants in the output count and split batches as needed. If generation is unavailable or outside budget, identify the missing variants and supply the handoff instead of silently substituting unrelated art.
+
 Use the selected concept as the visual source for every extracted part, whether it was generated earlier in the same request or supplied as an attachment. Ask imagegen to isolate the listed components while preserving their design. If multiple input images are needed, label their roles explicitly.
 
 Add a shared extraction instruction to the concept prompt, followed by a compact list of the required output files. For example:
@@ -41,7 +47,7 @@ View the actual outputs, including their alpha channel over both light and dark 
 Keep a small asset manifest alongside the delivered files. Record:
 
 - Selected concept path/version and source-reference roles.
-- Stable asset key, local file, pixel dimensions and transparency status.
+- Concept part/tier and defining appearance (including visible amount and silhouette), stable asset key, local file, pixel dimensions and transparency status; record why any shared source matches each use or mark the distinct asset pending.
 - Intended native component, state, anchor/parent and sizing behaviour.
 - Measured safe inset or slice region, where applicable; do not guess coordinates.
 - Live text/value binding separately from artwork.
@@ -74,4 +80,4 @@ The user supplied [Marvin's UI tutorial](https://x.com/marvin_x1/status/21049378
 
 Keep text live for localisation and changing values. Allow for [ScreenGui screen insets](https://create.roblox.com/docs/reference/engine/classes/ScreenGui#ScreenInsets), touch controls and controller focus. A decorative ImageLabel cannot replace an accessible interactive control. Check z-order, modal input, target hit areas and longer labels in Studio.
 
-Compare implementation captures with the concept at phone and desktop sizes: composition, legibility, texture scale, button depth and spacing should survive assembly. Also try presses, disabled states, rapid value changes and menu transitions. Report concept creation, asset extraction, upload, implementation and testing separately; completion of one stage does not prove the others.
+Compare assembled implementation captures with the selected concept at actual phone and desktop display sizes, using the asset map to check frames, backgrounds, icons and every pack/tier. Check visible amount, arrangement, silhouette, relative scale and progression alongside composition, legibility, texture scale, button depth and spacing. Inspect variants together so a missing pile or collapsed progression is obvious; correct mismatches before marking the screen visually verified. Also try presses, disabled states, rapid value changes and menu transitions. Report concept creation, asset extraction, upload, implementation and testing separately; completion of one stage does not prove the others.

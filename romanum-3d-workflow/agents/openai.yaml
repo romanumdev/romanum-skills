@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D and Blender workflow"
+  short_description: "Model Roblox assets from coherent references"
+  default_prompt: "Use $romanum-3d-workflow to model my Roblox asset in Blender, reconcile its references and verify actual renders against the selected design."

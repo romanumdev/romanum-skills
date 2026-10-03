@@ -30,7 +30,7 @@ After every context compaction or handoff, reopen the reference images relevant 
 
 ## Find before generating
 
-Search an available UI library for the screen or component, using its function and visual style. Inspect the actual layout, assets, supported devices, licence and attribution. Similar tags alone do not establish suitability. Reuse appropriate pieces and create only the missing ones.
+Search an available UI library for the screen or component, using its function and visual style. Inspect the actual layout, assets, supported devices, licence and attribution. Similar tags alone do not establish suitability. Reuse pieces that match the approved concept's appearance and role; matching a theme or asset category alone is insufficient. Check silhouette, visible quantity, materials and tier progression before reuse, and create only the missing distinct pieces within the authorised scope and budget.
 
 If library access is unavailable, work from assets the developer supplied. Do not invent search results or claim a local folder is a connected marketplace. Permission to use a pack in a game does not necessarily allow sharing it or its edited images.
 
@@ -42,6 +42,8 @@ Review the actual image at the intended device size. Check labels, touch targets
 
 ## Separate and assemble
 
+Before extraction or assembly, map the selected concept into separate frames, backgrounds, icons and pack/tier variants, with the matching source or missing asset recorded for each. Preserve visible quantities, silhouettes and progression: increasing diamond piles need the corresponding pile compositions; scaling one gem does not reproduce them. Shared art is appropriate when it matches the concept, including identical frames or icons whose only change is live text.
+
 Use the selected concept as an image input to imagegen for every extracted piece. Request one named asset per output, preserving its colour, shape, border, highlight and shadow. Independent pieces can be generated as a batch when the generator supports it. Extract button bases, panels, icons, pointers, non-stud textures and effects as separate files with real transparency where needed. Keep labels, prices, values and state changes editable in Roblox. Verify each asset against the concept; do not accept a freshly redesigned button as a faithful extraction.
 
 For studs, use an actual user-provided texture or a verified licensed/owned library asset, as a separate native tiled `ImageLabel` layer. Never generate, redraw, bake in or model artificial studs, including on Roblox world assets. Imagegen panel/button artwork must omit studs and leave room for the real texture. The [supplied PNG and provenance](assets/textures/NOTICE.md) are available locally; inclusion does not establish public redistribution rights. Follow [the texture source, layer and fidelity checks](references/asset-extraction-and-assembly.md#stud-texture-layer) and record the source plus the real asset ID or pending upload status.
@@ -50,7 +52,7 @@ Make a manifest mapping stable keys to images and native components. Include dim
 
 Use native `Frame`, `TextLabel`, `TextButton`, `ImageLabel` and `ImageButton` elements where appropriate. Supply real authorised Roblox asset IDs; do not invent IDs or report uploads before they succeed. A static Luau export is an artifact, not proof that Studio applied or tested it.
 
-Use connected Studio tools only within granted permissions. Inspect the result on relevant screen sizes and check interaction, clipping, text fit and navigation. Publishing and destructive edits remain separate authorised actions. Distinguish what was created, applied and tested.
+Use connected Studio tools only within granted permissions. Compare assembled UI captures with the selected concept at actual target display sizes, checking each mapped asset, visible quantities, silhouettes and tier progression alongside interaction, clipping, text fit and navigation. Correct substitutions that merely fit the theme; if assets or native rendering are unavailable, report the missing pieces and pending visual verification. Publishing and destructive edits remain separate authorised actions. Distinguish what was created, applied and tested.
 
 Independent subagent review is optional when the developer requests extra quality assurance or delegates that review. Give the reviewer the actual references, concept and implementation captures. It supplements visual and interaction checks; it is not a mandatory gate and cannot certify gameplay from a still image.
 

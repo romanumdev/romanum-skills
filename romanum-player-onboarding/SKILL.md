@@ -20,6 +20,14 @@ Record a funnel with explicit denominators, cohort dates and event definitions. 
 
 Use the funnel to locate player drop-off. Define an observable event for each step, count each eligible player or session consistently, and state which unit is used. Show step-to-step completion and loss, plus overall completion from entry; repeated events should not inflate progression. Distinguish loading failures from exits during play and compare device and acquisition cohorts when there is enough data. Investigate a large drop through observation before assigning a cause.
 
+## First 90 seconds, progress and next-day return
+
+Use the first 90 seconds as a practical design target for showing the appeal and reaching a meaningful first success, not a universal retention threshold. Teach through the core play: demonstrate one action, let the player perform it, show its useful result and make the next goal understandable. Observe time to first action and first success, loading failures and exits, using the existing explicit event definitions and denominators.
+
+Inspect whether players see meaningful progress or achievement every few minutes. This is a pacing hypothesis, not a promise that a reward timer improves engagement. Test useful unlocks, visible mastery or a new decision rather than repeated empty gratification. Offer an anticipated next-day reason to return, such as expedition or building completion, without punitive streaks or FOMO. Check whether returning players understand and value the follow-up.
+
+For each proposed change, name the funnel/cohort evidence, hypothesis, comparison window and guardrails. Keep paid-ad CTR, Home recommendation conversion and in-game onboarding/retention separate. Preserve the source's event semantics, percentage units and cohort eligibility. D1/D7 retention can be delayed or projected: compare matured, comparable cohorts and label incomplete observations; never promise improvement or assign causation from a correlation.
+
 ## Small experiments
 
 Choose one friction point and write: changing X may improve Y because of observed Z. Name the primary metric, baseline, comparison window and a guardrail such as errors, frustration or purchase confusion. Keep simultaneous changes limited enough to interpret; compare similar traffic/device cohorts. Retention is affected by more than onboarding, so distinguish correlation from a causal test.

@@ -16,6 +16,8 @@ Inspect enough of the first session to describe the fantasy, first action, feedb
 
 For an intended younger audience, test comprehension, reading load, touch controls and fair recovery. Ask what the player understood and chose to do. Do not substitute the adult reviewer's preferences for the audience or assume a colour, theme or random reward appeals to every child.
 
+When observing onboarding, record what the player actually does in the first 90 seconds, their first meaningful success, and the next few minutes of visible progress. The 90-second window is a design heuristic, not a proven cutoff. Note any voluntary next-day goal, such as expedition or building completion, without inferring its retention effect from a short session. Validate transferable pacing/return hypotheses against authorized funnels and matured comparable cohorts; keep acquisition CTR separate from in-game behavior.
+
 ## Keep evidence and interpretation separate
 
 Use a small record:

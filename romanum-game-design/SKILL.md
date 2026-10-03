@@ -32,6 +32,12 @@ When comparing inspected reference games, separate fantasy, moment-to-moment act
 
 Suggest only the content and systems needed to test the core loop. Explain what is distinctive and what may be hard to build. A familiar pattern can be crowded, and one large hit can dominate its player total. Never describe present-day counts as measured growth, retention or revenue.
 
+## First-session progress and reasons to return
+
+Treat the first 90 seconds as a useful onboarding and hook design target, not a proven universal cutoff. Teach the core action through play and aim for an understandable, meaningful early success. Plan visible progress or an achievement every few minutes as a pacing hypothesis; prefer new choices, mastery or a useful unlock over empty reward spam.
+
+Give the player a voluntary reason to return the next day, such as seeing an expedition result or a building completed, with a clear next action when they return. Test whether the audience values it. Avoid punitive streak loss, deceptive urgency or pressure to stay online. Diagnose actual first-session funnels and comparable return cohorts before prescribing changes; correlations do not establish what caused retention.
+
 ## Validate before expanding
 
 Offer a small playable prototype and a few concrete observations: can a new player understand the goal, finish the first loop, explain the next goal and choose to play again? Identify what first-party instrumentation would measure, such as onboarding completion or return rate, without claiming those measurements already exist. Do not invent universal performance thresholds. Compare hypotheses with playtests and the developer's own baseline.
