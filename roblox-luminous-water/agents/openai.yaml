@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roblox Luminous Water"
+  short_description: "Translate rolling cyan-blue water references into Roblox"
+  default_prompt: "Use $roblox-luminous-water to analyze or recreate luminous rolling water while preserving the intended art style and mobile performance."

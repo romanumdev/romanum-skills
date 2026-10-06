@@ -1,0 +1,4 @@
+interface:
+  display_name: "Romanum Layered VFX"
+  short_description: "Build readable, source-faithful Roblox ability VFX"
+  default_prompt: "Use $romanum-layered-vfx to break down this ability reference, choose volumetric shapes or reusable alpha layers, preserve its timed phases, and review the actual Roblox render."

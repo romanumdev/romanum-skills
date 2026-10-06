@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expressive Dialogue"
+  short_description: "Soft NPC bubbles, expressive text and coordinated reactions"
+  default_prompt: "Use $expressive-dialogue to design or implement soft, expressive dialogue that preserves the project's approved art direction."
