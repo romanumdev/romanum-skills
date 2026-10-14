@@ -15,7 +15,7 @@ Portable Roblox research and design guides. Romanum's assistant and MCP read the
 | Creative | [3D and Blender workflow](romanum-3d-workflow/SKILL.md) | Coherent object views, Blender modelling, materials and actual render comparisons |
 | Creative | [Expressive dialogue](expressive-dialogue/SKILL.md) | Content-fit dialogue, expressive text and coordinated reactions |
 | Environment | [Luminous water](roblox-luminous-water/SKILL.md) | Rolling blue-cyan water, surface detail, glints and selective foam |
-| Creative | [Layered VFX](romanum-layered-vfx/SKILL.md) | Timed ability effects, reusable image layers and lightning |
+| Creative | [Layered VFX](romanum-layered-vfx/SKILL.md) | Timed ability effects, Blender mesh and texture layers, reusable image layers and lightning |
 | Environment | [Stylized clouds](romanum-stylized-clouds/SKILL.md) | Curled cloud silhouettes, soft volume and day/night palettes |
 
 ## Use in an agent

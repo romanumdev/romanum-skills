@@ -1,6 +1,6 @@
 ---
 name: romanum-layered-vfx
-description: Design, build, or review readable layered Roblox ability VFX from a visual reference, including timed volumetric shapes and reusable alpha-texture/card bursts. Use for Romanum VFX work and source-fidelity review; excludes general water rendering and unrelated app work.
+description: Design, build, or review readable layered Roblox ability VFX from a visual reference, including timed volumetric shapes, Blender mesh-and-texture layers and reusable alpha-texture/card bursts. Use for Romanum VFX work and source-fidelity review; excludes general water rendering and unrelated app work.
 license: "Romanum Source-Available License 1.0; see LICENSE or https://github.com/romanumdev/Romanum/blob/main/LICENSE. Commercial project outputs are permitted."
 ---
 
@@ -13,6 +13,7 @@ Turn a visual reference into a readable, timed, maintainable Roblox effect. This
 - For this source or a similar multi-stage ability, read [source-evidence.md](references/source-evidence.md). It distinguishes observed pixels, creator claims, and interpretation.
 - For 85xvii's ring/star/radial burst or a small reusable image vocabulary, read [image-layer-reference.md](references/image-layer-reference.md). It contains observed samples, alpha-card reconstruction options, orientation/masking tradeoffs, and its own render gate. Do not impose doranto's dome/debris sequence on this mode.
 - For John's staged electrical AoE or icydxmon's sustained column, read [lightning-references.md](references/lightning-references.md). Keep their distinct sequences; the sustained clip does not show windup or recovery.
+- When the primary silhouette needs authored geometry (slash arcs, wave rings, vortices, splashes), read [mesh-texture-pipeline.md](references/mesh-texture-pipeline.md) for Blender meshes, UV layout, alpha textures, mesh flipbooks and the supported ways to make a mesh appear to flow.
 - For implementation, read [roblox-recipes.md](references/roblox-recipes.md). It contains verified API choices, implementation tradeoffs, and a tunable timeline.
 - Before declaring an effect ready, use [render-review.md](references/render-review.md).
 - Use [effect-brief.md](references/effect-brief.md) to record a new effect's contract and handoff.
