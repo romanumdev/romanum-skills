@@ -8,6 +8,7 @@ Use a disposable test place or the project's existing VFX harness. Do not instal
 
 - Normal-speed clip from the same relative camera/avatar staging as the reference
 - Phase snapshots appropriate to the selected reference: for doranto, anticipation, travel, first impact, sustained body, contraction minimum, second peak, low release and late recovery; for the image-led burst, ring, compact star, radial peak, dispersion and quiet reset
+- For the void singularity ultimate, capture self-charge, launch, singularity onset, hold, whiteout, detonation and residue
 - For supplementary lightning, capture John's charge/impact/ring/aftermath or icydxmon's sustained core/branches/base. Treat any new windup or recovery as proposed
 - An oblique and near-camera view in representative gameplay lighting
 - Particle/bloom-off blockout view and low/high quality view

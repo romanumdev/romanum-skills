@@ -1,18 +1,19 @@
 ---
 name: romanum-layered-vfx
-description: Design, build, or review readable layered Roblox ability VFX from a visual reference, including timed volumetric shapes, Blender mesh-and-texture layers and reusable alpha-texture/card bursts. Use for Romanum VFX work and source-fidelity review; excludes general water rendering and unrelated app work.
+description: Design, build, or review readable layered Roblox ability VFX from a visual reference, including timed volumetric shapes, Blender mesh-and-texture layers, reusable alpha-texture/card bursts and two-stage charge-and-detonate ultimates. Use for Romanum VFX work and source-fidelity review; excludes general water rendering and unrelated app work.
 license: "Romanum Source-Available License 1.0; see LICENSE or https://github.com/romanumdev/Romanum/blob/main/LICENSE. Commercial project outputs are permitted."
 ---
 
 # Romanum layered VFX
 
-Turn a visual reference into a readable, timed, maintainable Roblox effect. This skill covers doranto's cyan/pink choreography, 85xvii's image-led blackhole burst, and two supplementary lightning references. These clips do not prove a production method or asset count. Preserve the selected reference's sequence and shape hierarchy before adding detail.
+Turn a visual reference into a readable, timed, maintainable Roblox effect. This skill covers doranto's cyan/pink choreography, 85xvii's image-led blackhole burst, a two-stage void singularity ultimate, and two supplementary lightning references. These clips do not prove a production method or asset count. Preserve the selected reference's sequence and shape hierarchy before adding detail.
 
 ## Load the relevant references
 
 - For this source or a similar multi-stage ability, read [source-evidence.md](references/source-evidence.md). It distinguishes observed pixels, creator claims, and interpretation.
 - For 85xvii's ring/star/radial burst or a small reusable image vocabulary, read [image-layer-reference.md](references/image-layer-reference.md). It contains observed samples, alpha-card reconstruction options, orientation/masking tradeoffs, and its own render gate. Do not impose doranto's dome/debris sequence on this mode.
 - For John's staged electrical AoE or icydxmon's sustained column, read [lightning-references.md](references/lightning-references.md). Keep their distinct sequences; the sustained clip does not show windup or recovery.
+- For a signature ultimate that charges on the caster, then forms a held singularity at a target point and detonates across the ground, read [void-singularity-ultimate.md](references/void-singularity-ultimate.md). Keep its two locations, the hold and the whiteout beat.
 - When the primary silhouette needs authored geometry (slash arcs, wave rings, vortices, splashes), read [mesh-texture-pipeline.md](references/mesh-texture-pipeline.md) for Blender meshes, UV layout, alpha textures, mesh flipbooks and the supported ways to make a mesh appear to flow.
 - For implementation, read [roblox-recipes.md](references/roblox-recipes.md). It contains verified API choices, implementation tradeoffs, and a tunable timeline.
 - Before declaring an effect ready, use [render-review.md](references/render-review.md).
