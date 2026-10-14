@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animated event shop"
+  short_description: "Decorated Roblox shop windows whose props pop in and stay alive"
+  default_prompt: "Use $romanum-animated-event-shop to build my event shop: a native panel whose side props pop in one by one and keep moving, with extracted image props and a feature flag."
