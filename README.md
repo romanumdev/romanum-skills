@@ -11,6 +11,7 @@ Portable Roblox research and design guides. Romanum's assistant and MCP read the
 | Design | [Player onboarding](romanum-player-onboarding/SKILL.md) | First-session learning and measured iteration |
 | Creative | [Thumbnail design](romanum-thumbnail-design/SKILL.md) | Thumbnails, icons, brainrot audience guide and character references |
 | Creative | [UI workflow](romanum-ui-workflow/SKILL.md) | Library reuse, visual review, separate assets and native Roblox UI |
+| Creative | [Animated event shop](romanum-animated-event-shop/SKILL.md) | Decorated shop windows whose props pop in one by one and keep moving |
 | Creative | [3D and Blender workflow](romanum-3d-workflow/SKILL.md) | Coherent object views, Blender modelling, materials and actual render comparisons |
 | Creative | [Expressive dialogue](expressive-dialogue/SKILL.md) | Content-fit dialogue, expressive text and coordinated reactions |
 | Environment | [Luminous water](roblox-luminous-water/SKILL.md) | Rolling blue-cyan water, surface detail, glints and selective foam |
