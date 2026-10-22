@@ -168,6 +168,106 @@
       "hasAlpha": false,
       "bytes": 450474,
       "sha256": "6ee8e63c46f76ae8dd8e8cac746ac6f111d348fe42322e72d40456c2ea46aa6b"
+    },
+    {
+      "filename": "rewards-and-shop-screens/01-offline-free-reward.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "01-offline-free-reward.png",
+      "width": 1564,
+      "height": 1374,
+      "hasAlpha": false,
+      "bytes": 1213416,
+      "sha256": "36c1d83eade16729be462972dc3ca348e75ded0304a49e8b0e427e1dd1016912"
+    },
+    {
+      "filename": "rewards-and-shop-screens/02-daily-rewards.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "02-daily-rewards.png",
+      "width": 1027,
+      "height": 562,
+      "hasAlpha": false,
+      "bytes": 453299,
+      "sha256": "23bdd412b5fdb5289af860dfe734ae8b0bac7abfffb59b5dcd971d60cad926e4"
+    },
+    {
+      "filename": "rewards-and-shop-screens/03-playtime-rewards.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "03-playtime-rewards.png",
+      "width": 818,
+      "height": 555,
+      "hasAlpha": false,
+      "bytes": 363677,
+      "sha256": "478810d75a2fc4718909ae718d133965d39433cf3c747c437c0e839be2a6b3e9"
+    },
+    {
+      "filename": "rewards-and-shop-screens/04-hud-buttons.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "04-hud-buttons.png",
+      "width": 915,
+      "height": 184,
+      "hasAlpha": false,
+      "bytes": 151419,
+      "sha256": "b1b1d688801ee7004701a2ff09e94b2dd77095f91d54e22d3ece886b62da1fb9"
+    },
+    {
+      "filename": "rewards-and-shop-screens/05-collector-board.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "05-collector-board.png",
+      "width": 668,
+      "height": 545,
+      "hasAlpha": false,
+      "bytes": 608636,
+      "sha256": "a5bd69145c69064812a1080ab57fe194ca5cb9338bb0cf30aa5b6d2284f6dc6a"
+    },
+    {
+      "filename": "rewards-and-shop-screens/06-spin-wheel.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "06-spin-wheel.png",
+      "width": 1190,
+      "height": 1043,
+      "hasAlpha": false,
+      "bytes": 1247389,
+      "sha256": "85bce9cfd4865a613f5670aa37e8ded8c2b21332ff616cfc99438f6d6fc7b744"
+    },
+    {
+      "filename": "rewards-and-shop-screens/07-minigames-menu.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "07-minigames-menu.png",
+      "width": 1086,
+      "height": 802,
+      "hasAlpha": false,
+      "bytes": 1056893,
+      "sha256": "ae43b01fb7f7e7888e9e0c63be763a1935748688c308e2eda541d009d2ce220e"
+    },
+    {
+      "filename": "rewards-and-shop-screens/08-starter-pack.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "08-starter-pack.png",
+      "width": 1758,
+      "height": 982,
+      "hasAlpha": false,
+      "bytes": 1230358,
+      "sha256": "e233047d1469dbf4f02c7d63a59fe17e218deee5de06987feea9864ef353f111"
+    },
+    {
+      "filename": "rewards-and-shop-screens/09-high-striker-prompt.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "09-high-striker-prompt.png",
+      "width": 782,
+      "height": 455,
+      "hasAlpha": false,
+      "bytes": 600344,
+      "sha256": "b9f56efd61ac2fa034dd40b6e8a0235f9bcf00d687ce7345efac4539d2b5cb20"
+    },
+    {
+      "filename": "rewards-and-shop-screens/10-fusion-pass.png",
+      "role": "Rewards, shop and prompt study pack (verdict in references/rewards-and-shop-screens.md)",
+      "originalFilename": "10-fusion-pass.png",
+      "width": 1834,
+      "height": 1138,
+      "hasAlpha": false,
+      "bytes": 1082764,
+      "sha256": "1d92a24f93d949d878c917ee8fb6d50e3cb46c034a4a37a6c007d14e61c4fe9b"
     }
   ],
   "documents": [
