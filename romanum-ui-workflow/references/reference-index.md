@@ -34,7 +34,7 @@ The source video is identified by the pack as `20260929-0722-23.4835828.mp4`, bu
 
 ## Rewards and shop screens study pack
 
-Ten third-party screenshots supplied on 22 Oct 2026 are under `assets/references/rewards-and-shop-screens/`: an offline reward popup, daily and playtime reward grids, HUD buttons, an in-world collector, a spin wheel, a minigames picker, a starter pack, a proximity prompt and an event pass. Quality varies on purpose; some are examples of what not to do. Read [the verdicts](rewards-and-shop-screens.md) before opening an image, and only open the ones marked Reuse or Mixed for the part you are designing. Do not copy their art, copy or monetisation tactics.
+Eleven third-party screenshots supplied on 22 Oct 2026 are under `assets/references/rewards-and-shop-screens/`: an offline reward popup, daily and playtime reward grids, HUD buttons, an in-world collector, a spin wheel, a minigames picker, a starter pack, a proximity prompt, an event pass and a team-size lobby panel. The lobby panel (11) is one the owner likes and wants to use. Quality varies on purpose; some are examples of what not to do. Read [the verdicts](rewards-and-shop-screens.md) before opening an image, and only open the ones marked Reuse or Mixed for the part you are designing. Do not copy their art, copy or monetisation tactics.
 
 ## Reference boundaries
 
