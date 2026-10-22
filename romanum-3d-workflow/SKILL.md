@@ -18,7 +18,7 @@ Mark unresolved surfaces explicitly. Use symmetry or plain continuation only whe
 
 ## Build, render and compare
 
-Check a blockout's dimensions, landmarks and silhouette against the set before detail. Then refine geometry and materials while preserving the selected design. Use the project's actual mesh/texture budgets and export requirements rather than invented universal targets. Read [Blender delivery](references/blender-delivery.md) when editing or exporting a model.
+Check a blockout's dimensions, landmarks and silhouette against the set before detail. Then refine geometry and materials while preserving the selected design. Use the project's actual mesh/texture budgets and export requirements rather than invented universal targets. Read [Blender delivery](references/blender-delivery.md) when editing or exporting a model. For the stud style, read [stud style on rounded shapes](references/stud-style.md): keep the model's smooth, rounded shapes and apply studs only as a surface texture, never as blocky or stud-built geometry.
 
 Render from cameras corresponding to the references at comparable scale. Open and inspect the actual render files: compare silhouette, proportions, feature placement/count, handedness, material boundaries and finish across the relevant views. A pleasing three-quarter view alone does not verify the back. Correct mismatches and re-render affected views. A saved .blend, successful script or export does not prove visual fidelity. If rendering or inspection is unavailable, report that check as pending.
 
