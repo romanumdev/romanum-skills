@@ -20,7 +20,7 @@ Allow instant text reveal and skip where appropriate. Quiet typing clicks should
 | --- | --- |
 | Accepted action or hit | Compact icon/number, local impact and quick sound |
 | Collection | A few fragments/icons travel toward the player or counter |
-| Level-up | Bar response, local burst and brief level label |
+| Level-up | Bar response, local burst and brief level label; for meaningful levels, the full [rewarding level-up recipe](rewarding-level-up.md) |
 | Purchase/equip | Item preview responds and the actual equipped state changes |
 | Major milestone | A stronger, bounded celebration with a quick/skip alternative |
 
