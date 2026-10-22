@@ -268,6 +268,16 @@
       "hasAlpha": false,
       "bytes": 1082764,
       "sha256": "1d92a24f93d949d878c917ee8fb6d50e3cb46c034a4a37a6c007d14e61c4fe9b"
+    },
+    {
+      "filename": "rewards-and-shop-screens/11-team-size-lobby.png",
+      "role": "Team-size lobby panel; owner likes it and wants to use the pattern",
+      "originalFilename": "11-team-size-lobby.png",
+      "width": 482,
+      "height": 427,
+      "hasAlpha": true,
+      "bytes": 133311,
+      "sha256": "ad3be1ab3fde6a2bf9b9844c4fde168c512021adf92d988812f704ef7296d08e"
     }
   ],
   "documents": [

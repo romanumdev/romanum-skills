@@ -4,6 +4,6 @@ This collection contains nine directly supplied UI/world-art images and the cont
 
 The pack names `20260929-0722-23.4835828.mp4` as its source recording. That video and its audio are not included. Contact-sheet captions and project documents are supplied review material, not independently verified motion or audio measurements. Authors, original artwork URLs and reuse licences were not supplied.
 
-The `rewards-and-shop-screens/` folder holds ten further unmodified screenshots of third-party Roblox games supplied on 22 Oct 2026. Their source games and authors were not supplied.
+The `rewards-and-shop-screens/` folder holds eleven further unmodified screenshots of third-party Roblox games supplied on 22 Oct 2026. Their source games and authors were not supplied.
 
 These files are reference material, not newly generated Romanum assets. Romanum does not claim ownership of third-party artwork, Roblox material, branding or other depicted content. The Romanum source licence does not relicense that material. Use the references to communicate design direction; verify rights before redistributing or using existing artwork as production assets.

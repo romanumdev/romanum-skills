@@ -1,6 +1,6 @@
 # Rewards and shop screens (study pack)
 
-These are ten third-party Roblox screenshots supplied on 22 Oct 2026 as references. They are unmodified. Study the layout and the pattern, not the art, and do not copy any of it. Quality varies a lot, so each screen has a verdict. Judged against our house style: chunky slab buttons, one thick dark outline, fat white stroked text, few words, few buttons.
+These are eleven third-party Roblox screenshots supplied on 22 Oct 2026 as references. Screen 11 is one the owner likes and wants to use. They are unmodified. Study the layout and the pattern, not the art, and do not copy any of it. Quality varies a lot, so each screen has a verdict. Judged against our house style: chunky slab buttons, one thick dark outline, fat white stroked text, few words, few buttons.
 
 ## Quick verdicts
 
@@ -16,6 +16,7 @@ These are ten third-party Roblox screenshots supplied on 22 Oct 2026 as referenc
 | [08](../assets/references/rewards-and-shop-screens/08-starter-pack.png) | Starter Pack offer gated by ads | Mixed | Reads in one second, but fake-urgency copy and an ad gate. |
 | [09](../assets/references/rewards-and-shop-screens/09-high-striker-prompt.png) | In-world "E" proximity prompt | Reuse | Small, quiet, two lines, key cap on the left. |
 | [10](../assets/references/rewards-and-shop-screens/10-fusion-pass.png) | Event pass with ticket tiers | Avoid | Too many timers, tiny text and two progress systems at once. |
+| [11](../assets/references/rewards-and-shop-screens/11-team-size-lobby.png) | Team-size lobby panel: 1 to 4, Friends only, fill bar, Leave | Reuse (owner pick) | Four big choices, one toggle, one bar, one exit, nothing else. |
 
 ## Per screen
 
@@ -99,6 +100,14 @@ A wide red-to-magenta panel titled "Fusion Pass" with the subtitle "Fusion Event
 - **Doesn't:** It is dense. There are three timers, two progress systems (the 1/25 bar and the ticket count) and several lines of small text. The tickets box has tiny type. "+100" next to "Speed +1%" is confusing. The Locked button under the main egg gives no clue how to unlock it. Rewards "scale with your progress" but nothing shows how. A sideways scroll hides later tiers, including the best one. Two currencies (tickets and egg progress) are hard to follow.
 - **Take from it:** Use a fixed tile template for each tier. Show state with one button colour: green for claimed, grey for locked. Put a black inset behind reward art. Keep it to one progress bar and one timer. If there are tiers off-screen, show a clear arrow or a count.
 
+### 11 Team-size lobby (owner pick)
+
+A small light panel that floats over a lobby pad. An orange "Team size" tab sits on its top edge. Inside: four square green buttons labelled 1, 2, 3 and 4, a wide blue "Friends only" button with a switch on its left, and a yellow fill bar on a dark track. A red "Leave" button with a white X sits below the panel, outside it. Every button has a faint checker texture, a thick dark outline, a darker lower lip and fat white stroked text.
+
+- **Works:** It does one job with four kinds of control and no extra words. The number buttons are large, equal and easy to tap on a phone. The toggle is built into its button, so the state and the label read together. Leave sits outside the panel in red, so the exit is clear and hard to hit by accident. The title as a tab on the panel's edge saves height. The light panel stands out against a dark, busy world. Very close to our slab style.
+- **Doesn't:** The selected team size is not shown in this capture: all four buttons look the same, so the chosen state needs its own look. The bar has no label or count, so it is unclear whether it is players joined or a countdown. The switch's off state is subtle.
+- **Take from it:** For a lobby or party pad, use a title tab, one row of equal number buttons, one full-width toggle button with the switch inside it, and one thin bar. Put the exit button outside the panel in red. Give the chosen option a clear state (raised, brighter, or a white rim) and label the bar with a count or time, for example "2/4" or "0:12".
+
 ## Patterns worth reusing
 
 - One primary action per screen, in the largest and brightest button, in a saturated colour on a dark panel (screens 01, 05, 06).
@@ -111,6 +120,7 @@ A wide red-to-magenta panel titled "Fusion Pass" with the subtitle "Fusion Event
 - A black inset behind reward art so it pops (10).
 - A "A + B + C" row for bundles (08).
 - A short in-world prompt: key cap, name, one-line payoff (09).
+- A compact lobby panel: title tab, equal number buttons, a toggle inside its button, a thin bar, and the exit outside the panel (11).
 
 ## Patterns to avoid
 
