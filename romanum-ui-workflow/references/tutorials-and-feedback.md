@@ -28,6 +28,8 @@ Keep materials, Cash, damage and XP visibly distinct. Show the amount actually a
 
 Visual travel must not grant inventory or determine transaction success. Respond to the real state change; do not fake a sale, equipped item or multiplier for spectacle. Normal feedback should preserve gameplay visibility and control. Reserve full-screen effects for deliberate transitions, not every click.
 
+Vary the pitch of any sound that plays over and over (hits, pickups, clicks, coins, orbs). The same clip at the same pitch every time quickly sounds robotic and grating. In Roblox, set `Sound.PlaybackSpeed` to a small random value each play, for example `0.92 + math.random() * 0.16`; this shifts the pitch and length together, which is fine for short sounds. When the length must not change, use a `PitchShiftSoundEffect` with a random `Octave` near 1 instead. For a quick run of the same sound, such as orbs landing in a bar or a combo, step the pitch up a little each time and reset it when the run ends. Clone or pool the Sound for overlapping plays, so changing one play's pitch doesn't change another's.
+
 Possible starting durations: press/release about 0.08-0.15 seconds each way; gain feedback about 0.5-0.9 seconds total; a local level burst about 0.6-1.0 seconds. Tune them in motion on the target device. These values describe a starting feel, not universal rules.
 
 ## Review in motion

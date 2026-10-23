@@ -18,7 +18,7 @@ This is the owner's five-step recipe for making a level-up feel earned. Use the 
 - **Pillar and shockwave (beat 3).** Build these as world VFX the way [the layered VFX skill](../../romanum-layered-vfx/SKILL.md) does: Blender meshes with white alpha textures tinted in Roblox, per [its mesh and texture pipeline](../../romanum-layered-vfx/references/mesh-texture-pipeline.md), with particles only for sparkle detail. Not a particle-only effect. A short camera shake sells the impact.
 - **Slam (beat 4).** Start the text at about 2.5x scale and fully transparent, tween it to 1x and opaque in about 0.15 s, then hold and fade. A `UIStroke` and a drop shadow keep it readable over the world. Confetti is a pooled burst of small rotated frames or a ScreenGui particle setup; cap the count.
 - **Reward (beat 5).** Each stat row pops in with `Back` `Out`, staggered. Count numbers up by tweening a NumberValue and writing its value to the label on `Changed`, rounded and formatted. Count to the server's actual value.
-- **Sound.** Give each beat its own cue: soft ticks for the orbs, a rising tone through the hold, a boom for the blast, a hit for the slam, a chime per stat. Don't reuse another feature's signature sound.
+- **Sound.** Give each beat its own cue: soft ticks for the orbs, rising in pitch as each one lands, a rising tone through the hold, a boom for the blast, a hit for the slam, a chime per stat. Don't reuse another feature's signature sound.
 
 ## Keep it bounded
 
